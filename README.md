@@ -22,6 +22,7 @@
 - Feature Engineering of columns like : safety_behavior_score, doctor_recc_total, health_risk_score,household_vulnerability.
 
 ### Interactive Analysis With Tableau
+https://public.tableau.com/app/profile/amase.oyakapeli/viz/h1n1analysis/Dashboard1?publish=yes
 
 ### Data Analysis
 ![alt text](<Screenshot 2025-02-23 024843.png>)
