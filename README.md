@@ -71,7 +71,7 @@ Respect Individual Choices: While strongly encouraging vaccination and safe beha
 
 
 ## For More Information
-See the full analysis in the Jupyter Notebook or review this presentation. Contact me at : linkedin.com/in/amase-oyakapeli-7848a8343
+See the full analysis in the Jupyter Notebook or review this presentation. Contact me at : linkedin Amase Oyakapeli
 
 ![alt text](<Screenshot 2025-02-23 023933.png>)
 
